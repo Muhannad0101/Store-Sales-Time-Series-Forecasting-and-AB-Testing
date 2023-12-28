@@ -23,3 +23,9 @@ Objective: To build a predictive model for forecasting store sales, integrating 
 
 #### Outcome:
 The model effectively predicts sales trends, highlighting the significant impact of holidays, events, promotions, and customer transaction patterns. These insights are crucial for optimizing inventory management, marketing strategies, and overall store performance.
+
+
+![Capture1](https://github.com/Muhannad0101/Store-SalesTime-Series-Forecasting-and-AB-Testing/assets/102443619/1e1fcf15-30bd-4891-9254-7fbafa85111c)
+![Capture4](https://github.com/Muhannad0101/Store-SalesTime-Series-Forecasting-and-AB-Testing/assets/102443619/e449d24a-d393-41bf-913d-dbfe7d517822)
+![Capture3](https://github.com/Muhannad0101/Store-SalesTime-Series-Forecasting-and-AB-Testing/assets/102443619/bab22d5e-675e-4936-a9de-3ba4d70e2a6f)
+![Capture2](https://github.com/Muhannad0101/Store-SalesTime-Series-Forecasting-and-AB-Testing/assets/102443619/2558b6b1-3023-4ffe-939a-eacb730dce9c)
