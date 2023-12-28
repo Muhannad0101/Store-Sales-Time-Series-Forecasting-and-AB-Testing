@@ -20,5 +20,6 @@ Objective: To build a predictive model for forecasting store sales, integrating 
 - Incorporating external economic indicators, like oil prices, into the sales forecast.
 - Adapting the model to account for the complexities of holiday and event scheduling, including transferred and additional holidays.
 - Integrating transaction data to gain a comprehensive view of customer engagement and spending.
-####Outcome:
+
+#### Outcome:
 The model effectively predicts sales trends, highlighting the significant impact of holidays, events, promotions, and customer transaction patterns. These insights are crucial for optimizing inventory management, marketing strategies, and overall store performance.
